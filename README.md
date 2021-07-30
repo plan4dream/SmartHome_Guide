@@ -1,2 +1,2 @@
-# SmartHome_SmartThings_Guide
-SmartHome_SmartThings_Guide
+# SmartHome_Guide
+SmartHome_Guide
